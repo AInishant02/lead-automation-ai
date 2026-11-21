@@ -32,4 +32,4 @@ Edit the `CONFIG` block at the top of `Code.gs` to change the business name, pit
 Automated follow-ups, WhatsApp replies (WhatsApp Cloud API), and a CRM pipeline view.
 
 ## Demo
-<link to your video>
+<https://drive.google.com/file/d/1TvZ7TCObBKD_-zMJ9UBu3fC428gxU9ML/view?usp=sharing>
